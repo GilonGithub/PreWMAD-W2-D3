@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: seagreen;
+    width: 15vw;
+    height: 35vh; 
+}
+
+.letters {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(166, 149, 148);
+    width: 200px;
+}
+
+p {
+    background-color:blue;
+    width: 10%;
+    color: white;
+}
+
+h1 {
+    background-color: sienna;
+    width: 200px;
+    color: white;
+}
